@@ -1,6 +1,6 @@
 function SimpleSymbols(str) { 
 
-
+	//its a new line
   const letters = "abcdefghijklmnopqrstuvwxyz";
 
   if (str.length < 1 || str[0] != "+") {

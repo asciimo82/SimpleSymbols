@@ -4,6 +4,7 @@ function SimpleSymbols(str) {
   const letters = "abcdefghijklmnopqrstuvwxyz";
 
   if (str.length < 1 || str[0] != "+") {
+  		alert("Input can not be empty!");
   		return false;
   	} 
 
